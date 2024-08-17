@@ -1,1 +1,2 @@
 # Portfolio
+This repository contains my personal portfolio website, built using HTML, CSS, and JavaScript. It showcases my skills and projects as a Front-End Developer, highlighting my experience in creating responsive and interactive web designs. The portfolio includes sections about me, my work, and how to contact me. Feel free to explore the code, check out my projects, and reach out if you'd like to collaborate or learn more about my work.
